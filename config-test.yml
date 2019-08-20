@@ -1,4 +1,4 @@
-labe:  test123
+labe:  test123456
 spring:
   rabbitmq:
     port: 5672
