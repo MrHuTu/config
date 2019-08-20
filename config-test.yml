@@ -1,8 +1,2 @@
-labe:  test123456
-spring:
-  rabbitmq:
-    port: 5672
-    host: 10.88.89.131
-    username: huchao
-    password: 123
-    virtual-host: my_vhost
+labe:  huchao
+
