@@ -2,6 +2,6 @@ labe:  test123
 spring:
   rabbitmq:
     port: 5672
-    host: 10.88.89.121
+    host: 10.88.89.131
     username: admin
     password: admin
